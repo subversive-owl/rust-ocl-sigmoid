@@ -1,0 +1,7 @@
+[package]
+name = "ocl-sigmoid"
+version = "0.1.0"
+authors = ["subversive-owl"]
+
+[dependencies]
+ocl = "0.13.1"
